@@ -20,7 +20,7 @@ Actualmente Enfocado con **C#** y **ASP.NET MVC**, explorando el mundo del desar
 
 ---
 
-### 📫 Conectemos
+### 📫 Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-murillo-99625a268/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joelmurillo298@gmail.com)
 
