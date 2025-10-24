@@ -1,7 +1,7 @@
 # 👋 ¡Hola, soy Joel!
 
 💻 Desarrollador apasionado por crear aplicaciones que mezclan lógica, diseño y un toque de magia ✨  
-Actualmente trabajo con **C#** y **ASP.NET MVC**, explorando el mundo del desarrollo web y preparando mi salto al universo de **Unity** 🎮  
+Actualmente Enfocado con **C#** y **ASP.NET MVC**, explorando el mundo del desarrollo web , Proximamente **Unity** 🎮  
 
 ---
 
